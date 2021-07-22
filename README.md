@@ -1,2 +1,3 @@
 # hello-world
-Just started
+
+I am a neuroscience undergraduate 
